@@ -1,1 +1,1 @@
-# Desafio
+            font-family: 'Inter', sans-serif;
